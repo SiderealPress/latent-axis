@@ -1,18 +1,18 @@
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
   <!-- X axis -->
-  <line x1="50" y1="150" x2="450" y2="150" stroke="black" stroke-width="2"/>
+  <line x1="50" y1="50" x2="450" y2="50" stroke="black" stroke-width="2"/>
   
   <!-- Black circles -->
-  <circle cx="50" cy="150" r="4" fill="black"/>
-  <circle cx="150" cy="150" r="4" fill="black"/>
-  <circle cx="250" cy="150" r="4" fill="black"/>
-  <circle cx="350" cy="150" r="4" fill="black"/>
-  <circle cx="450" cy="150" r="4" fill="black"/>
+  <circle cx="50" cy="50" r="4" fill="black"/>
+  <circle cx="150" cy="50" r="4" fill="black"/>
+  <circle cx="250" cy="50" r="4" fill="black"/>
+  <circle cx="350" cy="50" r="4" fill="black"/>
+  <circle cx="450" cy="50" r="4" fill="black"/>
   
   <!-- Labels -->
-  <text x="38" y="170" font-size="12">Avocado</text>
-  <text x="138" y="170" font-size="12">Apple</text>
-  <text x="228" y="170" font-size="12">Orange</text>
-  <text x="325" y="170" font-size="12">Strawberry</text>
-  <text x="430" y="170" font-size="12">Grape</text>
+  <text x="38" y="70" font-size="12">Avocado</text>
+  <text x="138" y="70" font-size="12">Apple</text>
+  <text x="228" y="70" font-size="12">Orange</text>
+  <text x="325" y="70" font-size="12">Strawberry</text>
+  <text x="430" y="70" font-size="12">Grape</text>
 </svg>
