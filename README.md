@@ -4,7 +4,7 @@ Latent Axis is a library that makes it simple to run an "Axial Probe" using an L
 ## What is an Axis
 An axis is similar to a "dimension" or "parameter" in LLM parlance, but is human readable. For example: fruits vary in sweetness. We can organise fruits along an axis, or spectrum of sweetness like so:
 
-![image](https://raw.githubusercontent.com/SiderealPress/latent-axis/main/axis.svg)
+![image](./axis.svg)
 
 
 ### Example Usage:
